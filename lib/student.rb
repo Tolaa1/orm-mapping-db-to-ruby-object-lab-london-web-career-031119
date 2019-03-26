@@ -83,5 +83,6 @@ end
     sql = <<-SQL
       SELECT COUNT(*)
       FROM students
+      SQL
       end
   end
